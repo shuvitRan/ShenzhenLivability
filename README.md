@@ -4,8 +4,7 @@ This is a project by **Dan Ran** in partial fulfillment of the requirements for 
 
 advisor - Daniel Sauter <br/>
 environment consultant - The Nature Conservancy Shenzhen <br/>
-<img src ="https://github.com/shuvitRan/ShenzhenLivability/blob/master/imgdoc/TNC-Partner-Logo.png" width="50%" height="50%" />
-[![tnc](https://github.com/shuvitRan/ShenzhenLivability/blob/master/imgdoc/TNC-Partner-Logo.png){:height="50%" width="50%"}](https://www.nature.org/en-us/about-us/where-we-work/asia-pacific/china/) <br/>
+<img src ="https://github.com/shuvitRan/ShenzhenLivability/blob/master/imgdoc/TNC-Partner-Logo.png" width="10%" height="10%" />
 calligraphy logo - Yixiao Zhang <br/>
 special thanks - Aaron Hill, Vivi, Christopher Bost, Scarlett Li <br/>
 
