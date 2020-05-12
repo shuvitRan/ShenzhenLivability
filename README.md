@@ -4,7 +4,7 @@ This is a project by **Dan Ran** in partial fulfillment of the requirements for 
 
 advisor - Daniel Sauter <br/>
 environment consultant - The Nature Conservancy Shenzhen <br/>
-<img src ="https://github.com/shuvitRan/ShenzhenLivability/blob/master/imgdoc/TNC-Partner-Logo.png" width="10%" height="10%" />
+<img src ="https://github.com/shuvitRan/ShenzhenLivability/blob/master/imgdoc/TNC-Partner-Logo.png" width="15%" height="15%" /> <br/>
 calligraphy logo - Yixiao Zhang <br/>
 special thanks - Aaron Hill, Vivi, Christopher Bost, Scarlett Li <br/>
 
@@ -26,8 +26,6 @@ The web application was built with Nuxt.js, Mapbox GL JS & Studio, D3.js, and Ba
 
 He, Huangyou(何煌友)，Shenzhen Old Photos, 1979-1985.
 
-
----
 
 ## Data & Bibliography
 
