@@ -1,27 +1,24 @@
-# Shenzhen
-## The growth and livability of a mega city.
+# Shenzhen: The growth and livability of a mega city.
 
----
 This is a project by **Dan Ran** in partial fulfillment of the requirements for the degree of **Master of Science in Data Visualization, at Parsons School of Design**. <br/>
 
 advisor - Daniel Sauter <br/>
 environment consultant - The Nature Conservancy Shenzhen <br/>
-[![project ref imgae](https://github.com/shuvitRan/ShenzhenLivability/blob/master/imgdoc/TNC-Partner-Logo.png | width =150)](https://www.nature.org/en-us/about-us/where-we-work/asia-pacific/china/) <br/>
+[![tnc](https://github.com/shuvitRan/ShenzhenLivability/blob/master/imgdoc/TNC-Partner-Logo.png | width=150)](https://www.nature.org/en-us/about-us/where-we-work/asia-pacific/china/) <br/>
 calligraphy logo - Yixiao Zhang <br/>
 special thanks - Aaron Hill, Vivi, Christopher Bost, Scarlett Li <br/>
 
----
 
 [![project ref imgae](https://github.com/shuvitRan/ShenzhenLivability/blob/master/imgdoc/1.png)](https://shuvitran.github.io/szapp/)
 
-**[Click to Launch the Application](https://shuvitran.github.io/szapp/)** 
----
+**[Click to Launch the Application](https://shuvitran.github.io/szapp/)**
+
 
 ##  Code
 
 The web application was built with Nuxt.js, Mapbox GL JS & Studio, D3.js, and Baidu Map API. The vue-scrollama package was used for scroll events. The data was cleaned and managed by using Numpy and Pandas<
 
----
+
 
 ## Photos
 
